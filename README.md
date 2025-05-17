@@ -33,14 +33,4 @@ The graph nodes and edges are styled with labels and arrows:
   ]
 }
 
-echo "# 🧠 Medical Knowledge Graph using NER
 
-This project builds a **medical knowledge graph** using Named Entity Recognition (NER) for MEDICINE, MEDICAL_CONDITION, and PATHOGEN.
-
-...
-
-" > README.md
-
-git add README.md
-git commit -m "Add README for Medical Knowledge Graph project"
-git push origin main
