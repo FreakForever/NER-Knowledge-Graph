@@ -1,4 +1,4 @@
-# 🧠 Medical Knowledge Graph using NER
+# 🧠 Medical Knowledge Graph using NER -> KG-RAG
 
 This project builds a **medical knowledge graph** using Named Entity Recognition (NER) and manual annotation for high-accuracy extraction of medical relationships.
 
