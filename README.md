@@ -91,7 +91,7 @@ plt.show()
 
 ## 💡 Notes
 
-- Manual annotation (e.g., via Gemini API) is highly recommended for creating high-quality knowledge graphs in the medical domain, as it reduces errors from automated extraction and improves the reliability of relationships[5][7].
+-  Annotation (e.g., via Gemini API) is highly recommended for creating high-quality knowledge graphs in the medical domain, as it reduces errors from automated extraction and improves the reliability of relationships[5][7].
 - For large-scale projects, consider a hybrid approach: use NER models for initial extraction, then refine with manual or LLM-assisted annotation for critical relationships.
 
 ---
